@@ -1,22 +1,16 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
 > Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> Got shuttle tracker environmnet set up on my laptop and got it running and got familiar with the localhost:8080\admin page.
+	For some reason can no longer access localhost:8080 page
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
 
-> Examples: New Bugs to be fixed, Design choices
+> Figure out issue behind why localhost:8080 was not working and work on parsing schedule data from the schedule excel sheet and become more familiar with that.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> Lack of git knowledge is preventing me from pulling code from the shuttle tracker master
 
 ## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
