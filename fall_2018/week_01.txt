@@ -1,9 +1,0 @@
-What I did last week:
-	Got shuttle tracker environmnet set up on my laptop and got it running and got familiar with the localhost:8080\admin page.
-	For some reason can no longer access localhost:8080 page
-
-What I will do this weel:
-	Figure out issue behind why localhost:8080 was not working and work on parsing schedule data from the schedule excel sheet and become more familiar with that.
-
-Any things blocking me:
-	Nothing!
